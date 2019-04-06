@@ -4,7 +4,7 @@
 
 <script>
   export default {
-    name: 'game',
+    name: 'GameComponent',
     props: {
       msg: String
     }
