@@ -12,9 +12,9 @@ export default new Router({
       name: 'game',
       component: Game
     },
-    {
-      path: '/about',
-      name: 'about',
-    }
+    // {
+    //   path: '/about',
+    //   name: 'about',
+    // }
   ]
 })
