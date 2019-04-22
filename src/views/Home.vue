@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12 d-flex title">
           <img
-            src="/Assets/kisspng-final-fantasy-vii-remake-crisis-core-final-fantas-fantasy-title-box-5adb7f4c2b6bd2.3378206015243344121779.png"
+            src="/src/assets/kisspng-final-fantasy-vii-remake-crisis-core-final-fantas-fantasy-title-box-5adb7f4c2b6bd2.3378206015243344121779.png"
             width="650" height="310" alt="">
         </div>
       </div>
