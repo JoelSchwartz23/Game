@@ -10,10 +10,10 @@
       </div>
       <div class="row">
         <div class="col-6 cloud d-flex">
-          <img src="/Assets/cloudspritegif_by_zerolympiustrife-dbp6qj1.gif" alt="">
+          <img src="/src/assets/cloudspritegif_by_zerolympiustrife-dbp6qj1.gif" alt="">
         </div>
         <div class="col-6 sephiroth d-flex">
-          <img src="/Assets/ffbe___sephiroth_gif_2_by_zerolympiustrife-dbpjwgq.gif" height="200" alt="">
+          <img src="/src/assets/ffbe___sephiroth_gif_2_by_zerolympiustrife-dbpjwgq.gif" height="200" alt="">
         </div>
       </div>
       <div class="row">
